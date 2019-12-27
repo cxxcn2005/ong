@@ -1,0 +1,33 @@
+.slideshow-container {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+}
+
+body{
+    background-color:rgb(0, 230, 230);
+    text-align: center;
+    border-bottom-color: white;
+    border-left-color: whitesmoke;
+    border-right-color: whitesmoke;
+    font-family: 'Indie Flower', cursive;
+}
+h1{
+    text-decoration: whitesmoke;
+    margin-bottom: 1cm;
+
+}
+.container {
+    background-color: white;
+}
+.btn-toolbar{
+    
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+}
+p{
+    font-family: 'Indie Flower', cursive; 
+}
+h2{
+    font-family: 'Indie Flower', cursive;
+}
